@@ -13,7 +13,12 @@
 
 - 📄 Know about my experiences [**https://www.linkedin.com/in/yan-watanabe-falchetti/**](https://www.linkedin.com/in/yan-watanabe-falchetti/)
 
-<h3 align="left">Connect with me:</h3>
+<div>
+  <a href="https://github.com/yanfalchetti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanfalchetti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
+
+  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yan-watanabe-falchetti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yan-watanabe-falchetti/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/yan.falchetti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yan.falchetti/" height="30" width="40" /></a>
